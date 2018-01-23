@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JogadorMaquina()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ jogar()
+comment2.text=\r\n\ Implementa\u00E7\u00E3o\ do\ m\u00E9todo\ abstrato\ jogar(),\ presente\ na\ classe\ m\u00E3e\ Jogador.\r\n
+comment3.params=
+comment3.target=void\ iniciaPropriedades()
+comment3.text=\r\n\ M\u00E9todo\ que\ associa\ um\ conjunto\ de\ chaves\ a\ palavras\ e\ dicas,\ fornando\ conjuntos\ do\ tipo\ <chave,\ valor>.\ \r\n
+comment4.params=
+comment4.target=void\ sorteiaPalavra()
+comment4.text=\r\n\ M\u00E9todo\ que\ realiza\ o\ sorteio\ aleatoriamente\ de\ uma\ palavra\ no\ conjunto\ <chave,\ valor>.\r\n
+numComments=5

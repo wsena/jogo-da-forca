@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=palavra\ tamanhof
+comment0.target=Label(java.lang.String,\ int)
+comment0.text=\r\n\ Construtor\ do\ Label.\r\n\ @param\ palavra\ String\r\n\ @param\ tamanho\ int\r\n
+comment1.params=label\ tamanhofonte
+comment1.target=void\ AtualizarImagem(java.lang.String,\ int)
+comment1.text=\r\n\ Este\ m\u00E9todo\ atualiza\ a\ imagem\ de\ um\ objeto\ Label.\r\n
+comment2.params=texto\ tamanhofonte
+comment2.target=void\ setText(java.lang.String,\ int)
+comment2.text=\r\n\ Este\ m\u00E9todo\ atualiza\ o\ texto\ de\ um\ objeto\ Label\r\n\ @param\ texto\ String\r\n\ @param\ tamanhofonte\ int\r\n
+numComments=3

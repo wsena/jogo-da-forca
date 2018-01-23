@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ jogar()
+comment1.text=\r\n\ Implementa\u00E7\u00E3o\ do\ m\u00E9todo\ abstrato\ jogar(),\ presente\ na\ classe\ m\u00E3e\ Jogador.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ RecebeNomeJogador()
+comment2.text=\r\n\ Este\ m\u00E9todo\ recebe\ o\ nome\ do\ jogador.\r\n
+comment3.params=
+comment3.target=void\ RecebePalavra()
+comment3.text=\r\n\ Este\ m\u00E9todo\ recebe\ a\ palavra\ que\ ser\u00E1\ adivinhada.\r\n
+comment4.params=
+comment4.target=void\ RecebeDica()
+comment4.text=\r\n\ Este\ m\u00E9todo\ recebe\ a\ dica\ da\ palavra\ que\ ser\u00E1\ adivinhada.\r\n
+comment5.params=
+comment5.target=void\ AtualizarTentativasRestantes()
+comment5.text=\r\n\ Atualiza\ o\ n\u00FAmero\ de\ tentativas\ restantes.\r\n
+comment6.params=
+comment6.target=java.lang.String\ PadronizarPalavra()
+comment6.text=\r\n\ Este\ m\u00E9todo\ padroniza\ a\ palavra\ que\ ser\u00E1\ adivinhada.\r\n\ @return\ String\ palavra\ -\ palavra\ em\ letras\ mai\u00FAsculas.\r\n
+numComments=7

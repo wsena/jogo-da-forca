@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_144\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\Java\jdk1.8.0_144\lib\extensions\greenfoot.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\bluejcore.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\bluejeditor.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\bluejext.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\AppleJavaExtensions.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\junit-4.8.2.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\bluej.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\commons-httpclient-3.1.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\commons-logging-api-1.1.2.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\commons-codec-1.3.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\jl1.0.1.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\lib\opencsv-2.3.jar;C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca
+-d
+C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\Java\jdk1.8.0_144\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\Forca.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\Forca.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\Forca.html...
+C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\Forca.java:248: warning - @param argument "jogadorpalpite," is not a parameter name.
+C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\Forca.java:257: warning - @param argument "jogadorpalpite," is not a parameter name.
+C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\Forca.java:288: warning - @param argument "jogador1," is not a parameter name.
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\package-frame.html...
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\package-summary.html...
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\allclasses-frame.html...
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\allclasses-noframe.html...
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\index.html...
+Generating C:\Users\Wanessa Sena\Desktop\Git Projeto LPOO\ProjetoJogodaForca\doc\stylesheet.css...
+3 warnings

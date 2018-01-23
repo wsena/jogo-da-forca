@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ jogar()
+comment0.text=\r\n\ M\u00E9todo\ abstrato\ ser\u00E1\ implementado\ pelos\ Jogadores\ do\ tipo\ M\u00E1quina\ e\ do\ tipo\ Humano.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ ZerarPontuacao()
+comment1.text=\r\n\ Este\ m\u00E9todo\ zera\ a\ pontua\u00E7\u00E3o\ dos\ jogadores\ ao\ final\ da\ partida.\r\n
+comment2.params=
+comment2.target=void\ ZerarPontuacaoRodada()
+comment2.text=\r\n\ Este\ m\u00E9todo\ zera\ a\ pontua\u00E7\u00E3o\ dos\ jogadores\ ao\ final\ de\ cada\ rodada.\r\n
+numComments=3
